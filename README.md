@@ -1,5 +1,4 @@
-# DEV283x
-Node.js projects made for Microsoft's course.
+# csv-to-json
 
 This app converts a CSV file to JSON. It was made specifically to be working with 
 'customer-data.csv' file, so it may not work / work improperly with other files.
