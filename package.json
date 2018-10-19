@@ -1,0 +1,12 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "A program that converts a CSV file into JSON. Made for Microsoft's 'Introduction to NodeJS' course.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
